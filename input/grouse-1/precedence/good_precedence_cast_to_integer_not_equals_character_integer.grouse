@@ -1,0 +1,43 @@
+main {
+
+  print 'K :int != 89 nl;
+  print 'i :int != 60 nl;
+  print ', :int != 34 nl;
+  print 'L :int != 81 nl;
+  print 'I :int != 86 nl;
+  print '| :int != 2 nl;
+  print 'w :int != 65 nl;
+  print '- :int != 12 nl;
+  print '0 :int != 52 nl;
+  print 'M :int != 18 nl;
+  print '4 :int != 78 nl;
+  print 'h :int != 24 nl;
+
+  print 94 != '1 :int nl;
+  print 12 != '( :int nl;
+  print 39 != '6 :int nl;
+  print 14 != 'a :int nl;
+  print 59 != '[ :int nl;
+  print 61 != '- :int nl;
+  print 27 != '7 :int nl;
+  print 12 != 'o :int nl;
+  print 15 != '5 :int nl;
+  print 33 != '3 :int nl;
+  print 64 != 'd :int nl;
+  print 74 != 't :int nl;
+
+  print '} :int != 'f :int nl;
+  print '? :int != 'z :int nl;
+  print '7 :int != 'g :int nl;
+  print '; :int != '@ :int nl;
+  print 'a :int != 'r :int nl;
+  print 'L :int != '8 :int nl;
+  print '4 :int != '6 :int nl;
+  print 'N :int != 'M :int nl;
+  print '' :int != 'p :int nl;
+  print 'N :int != 'o :int nl;
+  print 'Y :int != '' :int nl;
+  print '! :int != 'K :int nl;
+
+}
+

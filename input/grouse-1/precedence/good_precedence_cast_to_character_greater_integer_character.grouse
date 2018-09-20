@@ -1,0 +1,43 @@
+main {
+
+  print 39 :char > '| nl;
+  print 19 :char > '* nl;
+  print 64 :char > '& nl;
+  print 31 :char > ', nl;
+  print 79 :char > 'g nl;
+  print 63 :char > ') nl;
+  print 27 :char > '} nl;
+  print 23 :char > '< nl;
+  print 16 :char > 'd nl;
+  print 93 :char > 'g nl;
+  print 51 :char > '] nl;
+  print 73 :char > 'U nl;
+
+  print '] > 16 :char nl;
+  print 'K > 14 :char nl;
+  print '' > 21 :char nl;
+  print 'F > 4 :char nl;
+  print 'm > 57 :char nl;
+  print '# > 84 :char nl;
+  print 'z > 51 :char nl;
+  print 'w > 20 :char nl;
+  print '5 > 76 :char nl;
+  print 'W > 9 :char nl;
+  print '; > 67 :char nl;
+  print 'F > 38 :char nl;
+
+  print 51 :char > 76 :char nl;
+  print 38 :char > 45 :char nl;
+  print 82 :char > 28 :char nl;
+  print 82 :char > 65 :char nl;
+  print 58 :char > 99 :char nl;
+  print 70 :char > 31 :char nl;
+  print 59 :char > 24 :char nl;
+  print 49 :char > 95 :char nl;
+  print 62 :char > 87 :char nl;
+  print 99 :char > 56 :char nl;
+  print 39 :char > 95 :char nl;
+  print 53 :char > 28 :char nl;
+
+}
+

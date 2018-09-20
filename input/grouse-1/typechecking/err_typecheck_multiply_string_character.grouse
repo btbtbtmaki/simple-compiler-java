@@ -1,0 +1,4 @@
+main {
+    imm result := "p ia6x" * 'C;
+    print result nl;
+}

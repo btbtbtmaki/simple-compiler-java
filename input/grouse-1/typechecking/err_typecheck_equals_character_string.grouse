@@ -1,0 +1,4 @@
+main {
+    imm result := '] == "2!8(4s";
+    print result nl;
+}

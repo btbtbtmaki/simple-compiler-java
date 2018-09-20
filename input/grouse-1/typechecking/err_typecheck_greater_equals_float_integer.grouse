@@ -1,0 +1,4 @@
+main {
+    imm result := 2.4 >= 90;
+    print result nl;
+}

@@ -1,0 +1,5 @@
+main {
+	imm c := 'a;
+	imm ascii := c :int;
+	print c, ascii;
+}

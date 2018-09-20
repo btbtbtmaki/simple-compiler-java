@@ -1,0 +1,4 @@
+main {
+    imm result := ">9N+$`D" + 6;
+    print result nl;
+}

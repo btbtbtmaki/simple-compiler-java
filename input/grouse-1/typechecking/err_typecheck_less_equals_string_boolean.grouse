@@ -1,0 +1,4 @@
+main {
+    imm result := "K\B;0" <= true;
+    print result nl;
+}

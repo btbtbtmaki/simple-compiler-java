@@ -1,0 +1,6 @@
+main {
+    imm result := 'N == 'Y;
+    var knownType := true;
+    let knownType := result;
+    print result nl;
+}

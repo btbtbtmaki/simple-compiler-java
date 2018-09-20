@@ -1,0 +1,4 @@
+main {
+    imm result := 'F - 4.1;
+    print result nl;
+}

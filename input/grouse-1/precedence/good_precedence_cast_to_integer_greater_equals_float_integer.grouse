@@ -1,0 +1,43 @@
+main {
+
+  print 8.8 :int >= 13 nl;
+  print 8.9 :int >= 16 nl;
+  print 2.2 :int >= 83 nl;
+  print 1.7 :int >= 47 nl;
+  print 5.8 :int >= 42 nl;
+  print 2.1 :int >= 51 nl;
+  print 9.3 :int >= 83 nl;
+  print 9.9 :int >= 88 nl;
+  print 5.0 :int >= 61 nl;
+  print 4.0 :int >= 66 nl;
+  print 5.8 :int >= 35 nl;
+  print 7.2 :int >= 6 nl;
+
+  print 15 >= 2.6 :int nl;
+  print 1 >= 2.6 :int nl;
+  print 94 >= 7.8 :int nl;
+  print 51 >= 6.3 :int nl;
+  print 66 >= 6.7 :int nl;
+  print 6 >= 5.6 :int nl;
+  print 47 >= 8.7 :int nl;
+  print 22 >= 4.1 :int nl;
+  print 34 >= 1.9 :int nl;
+  print 37 >= 4.8 :int nl;
+  print 15 >= 8.7 :int nl;
+  print 57 >= 8.5 :int nl;
+
+  print 5.8 :int >= 8.5 :int nl;
+  print 1.2 :int >= 3.1 :int nl;
+  print 7.3 :int >= 9.0 :int nl;
+  print 4.1 :int >= 5.7 :int nl;
+  print 4.7 :int >= 5.5 :int nl;
+  print 1.7 :int >= 8.5 :int nl;
+  print 7.8 :int >= 5.5 :int nl;
+  print 7.9 :int >= 8.3 :int nl;
+  print 6.2 :int >= 9.6 :int nl;
+  print 3.6 :int >= 3.4 :int nl;
+  print 8.5 :int >= 7.5 :int nl;
+  print 6.2 :int >= 8.4 :int nl;
+
+}
+

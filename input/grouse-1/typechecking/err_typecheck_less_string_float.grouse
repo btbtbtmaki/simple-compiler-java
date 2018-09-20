@@ -1,0 +1,4 @@
+main {
+    imm result := "QT" < 7.8;
+    print result nl;
+}

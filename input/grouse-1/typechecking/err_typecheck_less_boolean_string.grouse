@@ -1,0 +1,4 @@
+main {
+    imm result := true < "blDr";
+    print result nl;
+}

@@ -1,0 +1,6 @@
+main {
+    imm result := "!]YAe`[" :string;
+    var knownType := "py";
+    let knownType := result;
+    print result nl;
+}

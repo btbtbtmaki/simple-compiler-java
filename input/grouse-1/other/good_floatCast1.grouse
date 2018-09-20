@@ -1,0 +1,5 @@
+main {
+	imm c := 2;
+	imm d := c:float + 41.21;
+	print c, d;
+}

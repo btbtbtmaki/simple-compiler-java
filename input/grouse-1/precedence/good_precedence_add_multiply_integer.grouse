@@ -1,0 +1,56 @@
+main {
+
+  print 86 + 75 * 42 nl;
+  print 41 + 4 * 73 nl;
+  print 48 + 87 * 32 nl;
+  print 47 + 70 * 26 nl;
+  print 26 + 48 * 78 nl;
+  print 69 + 46 * 64 nl;
+  print 4 + 37 * 68 nl;
+  print 10 + 40 * 92 nl;
+  print 24 + 77 * 56 nl;
+  print 75 + 24 * 94 nl;
+  print 26 + 23 * 34 nl;
+  print 89 + 58 * 37 nl;
+
+  print 65 * 13 + 24 nl;
+  print 27 * 1 + 53 nl;
+  print 10 * 32 + 45 nl;
+  print 39 * 4 + 66 nl;
+  print 11 * 98 + 24 nl;
+  print 61 * 25 + 65 nl;
+  print 39 * 2 + 12 nl;
+  print 75 * 31 + 79 nl;
+  print 78 * 25 + 64 nl;
+  print 45 * 16 + 61 nl;
+  print 28 * 17 + 54 nl;
+  print 70 * 28 + 97 nl;
+
+  print 41 + 86 * 45 + 34 nl;
+  print 5 + 79 * 45 + 98 nl;
+  print 92 + 67 * 20 + 77 nl;
+  print 2 + 41 * 1 + 93 nl;
+  print 47 + 50 * 80 + 95 nl;
+  print 49 + 78 * 20 + 68 nl;
+  print 28 + 42 * 20 + 83 nl;
+  print 52 + 76 * 64 + 66 nl;
+  print 65 + 26 * 68 + 72 nl;
+  print 82 + 44 * 80 + 25 nl;
+  print 22 + 2 * 34 + 5 nl;
+  print 6 + 38 * 18 + 47 nl;
+
+  print 59 * 99 + 8 * 2 nl;
+  print 88 * 98 + 70 * 66 nl;
+  print 56 * 49 + 5 * 12 nl;
+  print 49 * 61 + 20 * 49 nl;
+  print 79 * 85 + 17 * 88 nl;
+  print 71 * 70 + 13 * 31 nl;
+  print 70 * 53 + 17 * 10 nl;
+  print 62 * 18 + 68 * 75 nl;
+  print 9 * 91 + 62 * 51 nl;
+  print 70 * 37 + 59 * 57 nl;
+  print 36 * 92 + 43 * 47 nl;
+  print 5 * 56 + 59 * 9 nl;
+
+}
+

@@ -1,0 +1,4 @@
+main {
+    imm result := ";$1s$$" > 92;
+    print result nl;
+}

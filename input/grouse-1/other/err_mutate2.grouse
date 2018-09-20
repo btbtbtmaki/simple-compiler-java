@@ -1,0 +1,7 @@
+main {
+	var c := 3 + 4 * 5;
+	imm d := (3 + 4) * 5;
+	print c, d, nl;
+	let c := 8.79;
+	print c, d, nl;
+}

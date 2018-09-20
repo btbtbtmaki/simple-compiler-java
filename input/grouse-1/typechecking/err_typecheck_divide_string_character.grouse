@@ -1,0 +1,4 @@
+main {
+    imm result := ":M/'" / 'u;
+    print result nl;
+}

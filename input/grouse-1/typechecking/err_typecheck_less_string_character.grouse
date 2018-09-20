@@ -1,0 +1,4 @@
+main {
+    imm result := "E6[" < '";
+    print result nl;
+}

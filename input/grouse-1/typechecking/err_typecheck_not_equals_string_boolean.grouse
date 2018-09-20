@@ -1,0 +1,4 @@
+main {
+    imm result := "n9" != false;
+    print result nl;
+}

@@ -1,0 +1,6 @@
+main {
+    imm result := 72 :int;
+    var knownType := 12;
+    let knownType := result;
+    print result nl;
+}

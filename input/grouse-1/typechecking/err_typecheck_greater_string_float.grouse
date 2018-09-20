@@ -1,0 +1,4 @@
+main {
+    imm result := "F4$=B{" > 5.9;
+    print result nl;
+}

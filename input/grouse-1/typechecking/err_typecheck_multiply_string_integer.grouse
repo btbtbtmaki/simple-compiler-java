@@ -1,0 +1,4 @@
+main {
+    imm result := "V?tOid" * 2;
+    print result nl;
+}

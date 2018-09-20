@@ -1,0 +1,6 @@
+main {
+	imm c := 3 + 4 * 5;  // comment at end of line ending with a /
+	imm d := 6 * 5;
+	imm e := 7 * 5;
+	print c, d, e, nl;
+}

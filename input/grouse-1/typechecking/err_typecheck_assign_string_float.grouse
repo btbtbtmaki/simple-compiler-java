@@ -1,0 +1,5 @@
+main {
+    var result := "><*OqQ";
+    let result := 7.3;
+    print result nl;
+}

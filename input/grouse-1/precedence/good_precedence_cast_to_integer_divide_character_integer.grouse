@@ -1,0 +1,43 @@
+main {
+
+  print 'Q :int / 16 nl;
+  print '= :int / 14 nl;
+  print 'w :int / 33 nl;
+  print '2 :int / 51 nl;
+  print '] :int / 37 nl;
+  print '> :int / 73 nl;
+  print 's :int / 64 nl;
+  print '< :int / 62 nl;
+  print 'c :int / 42 nl;
+  print 'Y :int / 47 nl;
+  print '+ :int / 66 nl;
+  print 'z :int / 24 nl;
+
+  print 60 / 'K :int nl;
+  print 86 / '2 :int nl;
+  print 47 / '[ :int nl;
+  print 56 / 'A :int nl;
+  print 62 / '< :int nl;
+  print 39 / '5 :int nl;
+  print 49 / 'X :int nl;
+  print 18 / 'e :int nl;
+  print 98 / '' :int nl;
+  print 14 / '; :int nl;
+  print 70 / '` :int nl;
+  print 27 / 'w :int nl;
+
+  print '/ :int / '< :int nl;
+  print '1 :int / '# :int nl;
+  print 'v :int / 'H :int nl;
+  print 'o :int / 'Y :int nl;
+  print 'S :int / 'Y :int nl;
+  print 'I :int / 'I :int nl;
+  print 'u :int / '3 :int nl;
+  print 'c :int / 'W :int nl;
+  print ') :int / 'j :int nl;
+  print 'A :int / '? :int nl;
+  print 'v :int / '$ :int nl;
+  print 'O :int / '2 :int nl;
+
+}
+

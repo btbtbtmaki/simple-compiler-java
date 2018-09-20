@@ -1,0 +1,4 @@
+main {
+    imm result := true - "u#4";
+    print result nl;
+}

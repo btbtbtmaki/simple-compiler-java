@@ -1,0 +1,4 @@
+main {
+    imm w := '	;
+    print w nl;
+}

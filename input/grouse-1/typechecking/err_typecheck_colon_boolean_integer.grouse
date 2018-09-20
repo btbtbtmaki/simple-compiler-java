@@ -1,0 +1,4 @@
+main {
+    imm result := false :int;
+    print result nl;
+}

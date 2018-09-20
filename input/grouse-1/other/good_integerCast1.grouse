@@ -1,0 +1,5 @@
+main {
+	imm v := 3.1415;
+	imm vapprox := v: int;
+	print v, vapprox;
+}

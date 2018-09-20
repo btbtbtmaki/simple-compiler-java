@@ -1,0 +1,4 @@
+main {
+    imm result := "{(2H" :float;
+    print result nl;
+}

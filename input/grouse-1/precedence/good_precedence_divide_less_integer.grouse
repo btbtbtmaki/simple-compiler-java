@@ -1,0 +1,43 @@
+main {
+
+  print 93 / 12 < 73 nl;
+  print 59 / 41 < 43 nl;
+  print 83 / 31 < 22 nl;
+  print 87 / 64 < 26 nl;
+  print 87 / 89 < 45 nl;
+  print 34 / 90 < 79 nl;
+  print 61 / 79 < 20 nl;
+  print 71 / 20 < 71 nl;
+  print 51 / 79 < 37 nl;
+  print 61 / 6 < 38 nl;
+  print 52 / 66 < 97 nl;
+  print 37 / 11 < 12 nl;
+
+  print 71 < 43 / 4 nl;
+  print 92 < 27 / 95 nl;
+  print 92 < 1 / 33 nl;
+  print 72 < 74 / 63 nl;
+  print 87 < 50 / 42 nl;
+  print 8 < 27 / 35 nl;
+  print 24 < 7 / 27 nl;
+  print 21 < 75 / 90 nl;
+  print 61 < 13 / 78 nl;
+  print 59 < 94 / 53 nl;
+  print 70 < 80 / 82 nl;
+  print 98 < 60 / 59 nl;
+
+  print 92 / 2 < 24 / 84 nl;
+  print 76 / 86 < 54 / 77 nl;
+  print 82 / 39 < 46 / 38 nl;
+  print 29 / 98 < 87 / 14 nl;
+  print 11 / 66 < 33 / 34 nl;
+  print 73 / 25 < 57 / 47 nl;
+  print 25 / 47 < 7 / 38 nl;
+  print 45 / 25 < 77 / 23 nl;
+  print 93 / 18 < 86 / 90 nl;
+  print 93 / 25 < 32 / 67 nl;
+  print 41 / 50 < 42 / 70 nl;
+  print 73 / 5 < 98 / 56 nl;
+
+}
+

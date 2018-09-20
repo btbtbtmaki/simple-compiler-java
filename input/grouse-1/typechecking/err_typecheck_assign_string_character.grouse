@@ -1,0 +1,5 @@
+main {
+    var result := "O `K)";
+    let result := '9;
+    print result nl;
+}

@@ -1,0 +1,4 @@
+main {
+    imm result := false != "CEG`K%";
+    print result nl;
+}

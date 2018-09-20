@@ -1,0 +1,14 @@
+main {
+	print '= '= nl;
+	print ' , true == true, nl;
+	print ' , true == false, nl;
+	print ' , false == true, nl;
+	print ' , false == false, nl;
+	print nl;
+	print '! '= nl;
+	print ' , true != true, nl;
+	print ' , true != false, nl;
+	print ' , false != true, nl;
+	print ' , false != false, nl;
+	print nl;
+}

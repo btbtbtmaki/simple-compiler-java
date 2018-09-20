@@ -1,0 +1,4 @@
+main {
+    imm result := "i4[Fz+{" != 18;
+    print result nl;
+}

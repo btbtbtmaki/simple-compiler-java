@@ -1,0 +1,5 @@
+main {
+    var result := 3;
+    let result := "F<f&";
+    print result nl;
+}

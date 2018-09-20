@@ -1,0 +1,8 @@
+main {
+    imm Var := 10;
+    imm Zar := 11;
+    imm Aar := 12;
+    imm _ar := 13;
+    imm aar := 14;
+    print Var, Zar, Aar, _ar, aar, nl;
+}

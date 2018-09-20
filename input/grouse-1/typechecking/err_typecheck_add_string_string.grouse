@@ -1,0 +1,4 @@
+main {
+    imm result := "#^" + "j3`";
+    print result nl;
+}

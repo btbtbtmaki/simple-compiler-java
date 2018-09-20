@@ -1,0 +1,7 @@
+main {
+	imm c := 3 + 4 * 5;  
+	imm d := 6 * 5;
+	imm e := 7 * 5;
+	print c, d, e, nl;
+}
+// comment ending a file with a slash at end /

@@ -1,0 +1,4 @@
+main {
+    imm result := 'X / "9;";
+    print result nl;
+}

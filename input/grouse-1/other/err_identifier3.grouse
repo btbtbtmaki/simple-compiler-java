@@ -1,0 +1,4 @@
+main {
+    imm 3abc := 10;
+    print 3abc, nl;
+}

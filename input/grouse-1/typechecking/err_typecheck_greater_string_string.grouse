@@ -1,0 +1,4 @@
+main {
+    imm result := "I8NNB" > "kj*0s^";
+    print result nl;
+}

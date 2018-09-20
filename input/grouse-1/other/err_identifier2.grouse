@@ -1,0 +1,4 @@
+main {
+    imm ~abc := 10;
+    print ~abc, nl;
+}

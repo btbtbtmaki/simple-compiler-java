@@ -1,0 +1,5 @@
+main {
+	imm v := 0.0;
+	imm ratio := 6.1 / v;
+	print ratio;
+}

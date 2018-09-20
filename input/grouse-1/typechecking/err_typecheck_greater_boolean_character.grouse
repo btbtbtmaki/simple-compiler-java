@@ -1,0 +1,4 @@
+main {
+    imm result := true > 'P;
+    print result nl;
+}

@@ -1,0 +1,4 @@
+main {
+    imm result := 15 < "MFH1\d";
+    print result nl;
+}

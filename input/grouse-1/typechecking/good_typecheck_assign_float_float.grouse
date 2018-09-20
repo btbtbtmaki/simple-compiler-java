@@ -1,0 +1,5 @@
+main {
+    var result := 6.6;
+    let result := 8.7;
+    print result nl;
+}

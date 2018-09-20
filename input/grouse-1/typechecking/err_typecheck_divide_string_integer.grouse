@@ -1,0 +1,4 @@
+main {
+    imm result := "`E8" / 73;
+    print result nl;
+}

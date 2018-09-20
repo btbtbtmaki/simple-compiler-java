@@ -1,0 +1,43 @@
+main {
+
+  print 71 :bool == true nl;
+  print 22 :bool == true nl;
+  print 48 :bool == false nl;
+  print 0 :bool == false nl;
+  print 48 :bool == false nl;
+  print 9 :bool == true nl;
+  print 65 :bool == true nl;
+  print 0 :bool == true nl;
+  print 29 :bool == false nl;
+  print 84 :bool == false nl;
+  print 77 :bool == true nl;
+  print 42 :bool == false nl;
+
+  print true == 35 :bool nl;
+  print true == 0 :bool nl;
+  print false == 55 :bool nl;
+  print false == 71 :bool nl;
+  print false == 43 :bool nl;
+  print true == 77 :bool nl;
+  print false == 0 :bool nl;
+  print false == 61 :bool nl;
+  print true == 63 :bool nl;
+  print false == 82 :bool nl;
+  print false == 0 :bool nl;
+  print true == 57 :bool nl;
+
+  print 27 :bool == 28 :bool nl;
+  print 63 :bool == 2 :bool nl;
+  print 79 :bool == 78 :bool nl;
+  print 63 :bool == 96 :bool nl;
+  print 29 :bool == 0 :bool nl;
+  print 50 :bool == 46 :bool nl;
+  print 55 :bool == 21 :bool nl;
+  print 0 :bool == 47 :bool nl;
+  print 15 :bool == 30 :bool nl;
+  print 92 :bool == 72 :bool nl;
+  print 0 :bool == 0 :bool nl;
+  print 48 :bool == 40 :bool nl;
+
+}
+

@@ -1,0 +1,5 @@
+main {
+    var result := '';
+    let result := "S!H7$3";
+    print result nl;
+}

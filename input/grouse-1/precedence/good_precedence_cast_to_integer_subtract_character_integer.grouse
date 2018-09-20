@@ -1,0 +1,43 @@
+main {
+
+  print 'R :int - 66 nl;
+  print 'r :int - 75 nl;
+  print 'f :int - 50 nl;
+  print 'Z :int - 43 nl;
+  print '  :int - 32 nl;
+  print 'H :int - 3 nl;
+  print '0 :int - 36 nl;
+  print '$ :int - 75 nl;
+  print '$ :int - 3 nl;
+  print 't :int - 8 nl;
+  print 'N :int - 65 nl;
+  print '[ :int - 89 nl;
+
+  print 38 - '/ :int nl;
+  print 80 - 'j :int nl;
+  print 57 - '{ :int nl;
+  print 32 - 'e :int nl;
+  print 43 - '2 :int nl;
+  print 72 - 'a :int nl;
+  print 17 - '7 :int nl;
+  print 24 - ') :int nl;
+  print 64 - 'o :int nl;
+  print 18 - '& :int nl;
+  print 81 - '6 :int nl;
+  print 15 - 'c :int nl;
+
+  print 'y :int - '9 :int nl;
+  print '> :int - '. :int nl;
+  print 'K :int - '| :int nl;
+  print 'M :int - 'C :int nl;
+  print 'e :int - 'F :int nl;
+  print 'F :int - 'F :int nl;
+  print 's :int - '  :int nl;
+  print '% :int - '% :int nl;
+  print 'Y :int - '< :int nl;
+  print '7 :int - 'Z :int nl;
+  print 'T :int - 'L :int nl;
+  print '. :int - '; :int nl;
+
+}
+

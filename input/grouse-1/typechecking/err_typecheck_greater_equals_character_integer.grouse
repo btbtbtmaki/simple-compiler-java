@@ -1,0 +1,4 @@
+main {
+    imm result := 't >= 14;
+    print result nl;
+}

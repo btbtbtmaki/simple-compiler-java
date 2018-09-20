@@ -1,0 +1,4 @@
+main {
+	print  3 == 4 == true, nl;
+	print  4 == 4 == true, nl;
+}

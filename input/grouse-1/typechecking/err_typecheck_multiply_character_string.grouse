@@ -1,0 +1,4 @@
+main {
+    imm result := '{ * "iv#'K0:";
+    print result nl;
+}

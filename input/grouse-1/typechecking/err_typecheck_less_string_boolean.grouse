@@ -1,0 +1,4 @@
+main {
+    imm result := "C:r" < false;
+    print result nl;
+}

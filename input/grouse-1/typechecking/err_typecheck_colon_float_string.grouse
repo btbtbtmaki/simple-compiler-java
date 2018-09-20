@@ -1,0 +1,4 @@
+main {
+    imm result := 1.9 :string;
+    print result nl;
+}

@@ -1,0 +1,4 @@
+main {
+    imm result := "''W" + 4.8;
+    print result nl;
+}

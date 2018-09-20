@@ -1,0 +1,4 @@
+main {
+    imm result := 'e - 19;
+    print result nl;
+}

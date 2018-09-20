@@ -1,0 +1,6 @@
+main {
+    imm result := "'+@*5" != "E?,";
+    var knownType := false;
+    let knownType := result;
+    print result nl;
+}

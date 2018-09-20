@@ -1,0 +1,4 @@
+main {
+    imm nega := 10 -20;
+    print nega, nl;
+}

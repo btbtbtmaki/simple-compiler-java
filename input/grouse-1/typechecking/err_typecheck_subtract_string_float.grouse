@@ -1,0 +1,4 @@
+main {
+    imm result := "3Lc!x`" - 5.9;
+    print result nl;
+}

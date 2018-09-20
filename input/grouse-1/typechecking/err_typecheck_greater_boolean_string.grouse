@@ -1,0 +1,4 @@
+main {
+    imm result := false > "zRzs<<K";
+    print result nl;
+}

@@ -1,0 +1,6 @@
+main {
+    imm result := 2.5 + 5.5;
+    var knownType := 3.0;
+    let knownType := result;
+    print result nl;
+}

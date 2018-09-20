@@ -1,0 +1,6 @@
+main {
+    imm result := 'F < 'Z;
+    var knownType := true;
+    let knownType := result;
+    print result nl;
+}

@@ -1,0 +1,8 @@
+main {
+    imm nega := -20;
+    imm negb :=-20;
+    imm negc := 24 + -44;
+    imm negd := 24+-44;
+    imm nege := 2*-10;
+    print nega, negb, negc, negd, nege, nl;
+}

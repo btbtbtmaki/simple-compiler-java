@@ -1,0 +1,4 @@
+main {
+    imm result := 7.8 :char;
+    print result nl;
+}

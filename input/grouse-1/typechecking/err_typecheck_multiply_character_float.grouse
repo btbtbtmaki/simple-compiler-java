@@ -1,0 +1,4 @@
+main {
+    imm result := 'Q * 2.2;
+    print result nl;
+}

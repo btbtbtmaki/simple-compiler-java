@@ -1,0 +1,4 @@
+main {
+    imm result := 'H < "dch?I";
+    print result nl;
+}

@@ -1,0 +1,4 @@
+main {
+    imm result := "8^&" <= 15;
+    print result nl;
+}

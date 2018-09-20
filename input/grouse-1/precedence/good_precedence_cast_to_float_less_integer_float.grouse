@@ -1,0 +1,43 @@
+main {
+
+  print 1 :float < 7.6 nl;
+  print 21 :float < 2.5 nl;
+  print 60 :float < 2.2 nl;
+  print 90 :float < 4.2 nl;
+  print 14 :float < 9.9 nl;
+  print 72 :float < 2.0 nl;
+  print 49 :float < 1.7 nl;
+  print 61 :float < 7.4 nl;
+  print 17 :float < 1.2 nl;
+  print 12 :float < 2.2 nl;
+  print 27 :float < 7.2 nl;
+  print 80 :float < 9.0 nl;
+
+  print 5.3 < 72 :float nl;
+  print 9.6 < 57 :float nl;
+  print 5.5 < 7 :float nl;
+  print 8.1 < 40 :float nl;
+  print 7.9 < 17 :float nl;
+  print 7.1 < 85 :float nl;
+  print 8.5 < 10 :float nl;
+  print 9.5 < 20 :float nl;
+  print 4.3 < 57 :float nl;
+  print 4.1 < 27 :float nl;
+  print 5.1 < 8 :float nl;
+  print 8.4 < 91 :float nl;
+
+  print 47 :float < 16 :float nl;
+  print 26 :float < 53 :float nl;
+  print 65 :float < 36 :float nl;
+  print 63 :float < 97 :float nl;
+  print 68 :float < 24 :float nl;
+  print 10 :float < 78 :float nl;
+  print 8 :float < 99 :float nl;
+  print 64 :float < 16 :float nl;
+  print 3 :float < 73 :float nl;
+  print 75 :float < 25 :float nl;
+  print 72 :float < 1 :float nl;
+  print 53 :float < 66 :float nl;
+
+}
+

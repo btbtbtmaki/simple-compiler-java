@@ -1,0 +1,4 @@
+main {
+    imm result := 5.4 * "7f4Y";
+    print result nl;
+}

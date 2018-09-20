@@ -1,0 +1,4 @@
+main {
+    imm result := 7.3 / "}_(v@S?";
+    print result nl;
+}

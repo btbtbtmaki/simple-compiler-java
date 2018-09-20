@@ -1,0 +1,43 @@
+main {
+
+  print 43 :char <= '% nl;
+  print 31 :char <= '0 nl;
+  print 15 :char <= 'W nl;
+  print 43 :char <= 'g nl;
+  print 84 :char <= 'J nl;
+  print 52 :char <= 'z nl;
+  print 44 :char <= 'w nl;
+  print 87 :char <= '] nl;
+  print 33 :char <= 'F nl;
+  print 47 :char <= 'm nl;
+  print 54 :char <= 'Y nl;
+  print 24 :char <= 'D nl;
+
+  print 'h <= 25 :char nl;
+  print 'f <= 42 :char nl;
+  print '  <= 46 :char nl;
+  print 'f <= 57 :char nl;
+  print 'V <= 23 :char nl;
+  print 'T <= 34 :char nl;
+  print 'P <= 60 :char nl;
+  print 'F <= 52 :char nl;
+  print 'M <= 25 :char nl;
+  print 'P <= 51 :char nl;
+  print '. <= 5 :char nl;
+  print 'R <= 98 :char nl;
+
+  print 42 :char <= 92 :char nl;
+  print 3 :char <= 79 :char nl;
+  print 46 :char <= 85 :char nl;
+  print 97 :char <= 31 :char nl;
+  print 92 :char <= 21 :char nl;
+  print 11 :char <= 53 :char nl;
+  print 73 :char <= 4 :char nl;
+  print 69 :char <= 17 :char nl;
+  print 27 :char <= 96 :char nl;
+  print 99 :char <= 12 :char nl;
+  print 78 :char <= 46 :char nl;
+  print 77 :char <= 39 :char nl;
+
+}
+

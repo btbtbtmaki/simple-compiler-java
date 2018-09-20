@@ -1,0 +1,4 @@
+main {
+    imm result := 7.1 * 'R;
+    print result nl;
+}

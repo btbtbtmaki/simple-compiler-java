@@ -1,0 +1,4 @@
+main {
+    imm result := 'H > 83;
+    print result nl;
+}

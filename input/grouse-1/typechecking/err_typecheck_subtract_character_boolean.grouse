@@ -1,0 +1,4 @@
+main {
+    imm result := 'A - true;
+    print result nl;
+}

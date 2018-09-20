@@ -1,0 +1,5 @@
+main {
+    var result := 'g;
+    let result := '.;
+    print result nl;
+}

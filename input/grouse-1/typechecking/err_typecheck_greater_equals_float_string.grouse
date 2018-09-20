@@ -1,0 +1,4 @@
+main {
+    imm result := 6.2 >= "oRDd";
+    print result nl;
+}

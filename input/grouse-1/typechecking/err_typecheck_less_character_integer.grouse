@@ -1,0 +1,4 @@
+main {
+    imm result := '5 < 37;
+    print result nl;
+}

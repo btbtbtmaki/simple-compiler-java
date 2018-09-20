@@ -1,0 +1,4 @@
+main {
+    imm result := 81 == "^6@e";
+    print result nl;
+}

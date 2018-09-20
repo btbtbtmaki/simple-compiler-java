@@ -1,0 +1,4 @@
+main {
+    imm result := "\3Hx^H" :bool;
+    print result nl;
+}

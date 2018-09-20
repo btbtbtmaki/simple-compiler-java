@@ -1,0 +1,4 @@
+main {
+    imm result := "q;G" < "rsck";
+    print result nl;
+}

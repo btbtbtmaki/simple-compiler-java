@@ -1,0 +1,4 @@
+main {
+    imm result := 33 < ' ;
+    print result nl;
+}

@@ -1,0 +1,8 @@
+main {
+	imm v := '!;
+    imm w := v;
+    imm x := ' ;
+    imm y := '~;
+    imm z := '8;
+    print v w x y z nl;
+}

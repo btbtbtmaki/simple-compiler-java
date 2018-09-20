@@ -1,0 +1,43 @@
+main {
+
+  print 52 :char >= 'D nl;
+  print 29 :char >= 'y nl;
+  print 98 :char >= 'e nl;
+  print 49 :char >= 'r nl;
+  print 46 :char >= '^ nl;
+  print 64 :char >= '} nl;
+  print 82 :char >= '% nl;
+  print 12 :char >= '} nl;
+  print 70 :char >= '" nl;
+  print 52 :char >= '2 nl;
+  print 6 :char >= '/ nl;
+  print 34 :char >= 'm nl;
+
+  print 'e >= 63 :char nl;
+  print 'w >= 16 :char nl;
+  print 'Y >= 76 :char nl;
+  print ': >= 7 :char nl;
+  print 'S >= 55 :char nl;
+  print '1 >= 97 :char nl;
+  print '1 >= 28 :char nl;
+  print '{ >= 53 :char nl;
+  print 'N >= 1 :char nl;
+  print 'o >= 13 :char nl;
+  print 'n >= 9 :char nl;
+  print '* >= 69 :char nl;
+
+  print 10 :char >= 86 :char nl;
+  print 6 :char >= 84 :char nl;
+  print 18 :char >= 27 :char nl;
+  print 30 :char >= 9 :char nl;
+  print 59 :char >= 63 :char nl;
+  print 99 :char >= 73 :char nl;
+  print 66 :char >= 95 :char nl;
+  print 38 :char >= 5 :char nl;
+  print 25 :char >= 6 :char nl;
+  print 57 :char >= 43 :char nl;
+  print 12 :char >= 66 :char nl;
+  print 56 :char >= 74 :char nl;
+
+}
+

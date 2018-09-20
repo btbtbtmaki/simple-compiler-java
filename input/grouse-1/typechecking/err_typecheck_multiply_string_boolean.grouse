@@ -1,0 +1,4 @@
+main {
+    imm result := "(?V<E" * true;
+    print result nl;
+}

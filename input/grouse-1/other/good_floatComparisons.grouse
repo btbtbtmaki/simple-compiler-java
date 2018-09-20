@@ -1,0 +1,32 @@
+main {
+	print '< nl;
+	print ' , 3.0 < 4.0, nl;
+	print ' , 4.0 < 4.0, nl;
+	print ' , 5.0 < 4.0, nl;
+	print nl;
+	print '< '= nl;
+	print ' , 3.0 <= 4.0, nl;
+	print ' , 4.0 <= 4.0, nl;
+	print ' , 5.0 <= 4.0, nl;
+	print nl;
+	print '> nl;
+	print ' , 3.0 > 4.0, nl;
+	print ' , 4.0 > 4.0, nl;
+	print ' , 5.0 > 4.0, nl;
+	print nl;
+	print '> '= nl;
+	print ' , 3.0 >= 4.0, nl;
+	print ' , 4.0 >= 4.0, nl;
+	print ' , 5.0 >= 4.0, nl;
+	print nl;
+	print '= '= nl;
+	print ' , 3.0 == 4.0, nl;
+	print ' , 4.0 == 4.0, nl;
+	print ' , 5.0 == 4.0, nl;
+	print nl;
+	print '! '= nl;
+	print ' , 3.0 != 4.0, nl;
+	print ' , 4.0 != 4.0, nl;
+	print ' , 5.0 != 4.0, nl;
+	print nl;
+}

@@ -1,0 +1,4 @@
+main {
+    imm result := 22 <= "iT21";
+    print result nl;
+}

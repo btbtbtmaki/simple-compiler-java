@@ -1,0 +1,4 @@
+main {
+    imm result := 'S < false;
+    print result nl;
+}

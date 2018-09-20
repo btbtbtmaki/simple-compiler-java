@@ -1,0 +1,6 @@
+main {
+    imm result := 2.8 != 2.1;
+    var knownType := false;
+    let knownType := result;
+    print result nl;
+}

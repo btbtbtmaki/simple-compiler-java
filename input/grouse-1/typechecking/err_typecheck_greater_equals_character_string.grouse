@@ -1,0 +1,4 @@
+main {
+    imm result := '| >= "EQ+";
+    print result nl;
+}

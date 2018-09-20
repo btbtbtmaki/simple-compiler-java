@@ -1,0 +1,43 @@
+main {
+
+  print 56 * 98 == 76 nl;
+  print 6 * 18 == 77 nl;
+  print 34 * 43 == 87 nl;
+  print 27 * 56 == 98 nl;
+  print 36 * 59 == 33 nl;
+  print 7 * 73 == 21 nl;
+  print 61 * 21 == 87 nl;
+  print 86 * 49 == 30 nl;
+  print 9 * 43 == 28 nl;
+  print 50 * 33 == 80 nl;
+  print 87 * 16 == 99 nl;
+  print 38 * 98 == 35 nl;
+
+  print 31 == 64 * 24 nl;
+  print 42 == 20 * 36 nl;
+  print 32 == 47 * 68 nl;
+  print 12 == 45 * 77 nl;
+  print 69 == 85 * 84 nl;
+  print 15 == 85 * 63 nl;
+  print 62 == 57 * 25 nl;
+  print 84 == 68 * 35 nl;
+  print 51 == 10 * 58 nl;
+  print 72 == 33 * 57 nl;
+  print 89 == 17 * 35 nl;
+  print 11 == 14 * 93 nl;
+
+  print 14 * 76 == 76 * 26 nl;
+  print 93 * 18 == 5 * 87 nl;
+  print 5 * 22 == 61 * 99 nl;
+  print 42 * 62 == 30 * 21 nl;
+  print 61 * 20 == 50 * 38 nl;
+  print 4 * 10 == 42 * 64 nl;
+  print 40 * 31 == 83 * 58 nl;
+  print 84 * 41 == 35 * 59 nl;
+  print 14 * 96 == 32 * 25 nl;
+  print 48 * 1 == 63 * 13 nl;
+  print 43 * 23 == 62 * 76 nl;
+  print 25 * 30 == 7 * 61 nl;
+
+}
+

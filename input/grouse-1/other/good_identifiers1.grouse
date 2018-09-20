@@ -1,0 +1,8 @@
+main {
+    imm vara := 10;
+    imm var~ := 11;
+    imm var9 := 12;
+    imm var_ := 13;
+    imm varZ := 14;
+    print vara, var~, var9, var_, varZ, nl;
+}

@@ -1,0 +1,43 @@
+main {
+
+  print 26 :char == '7 nl;
+  print 98 :char == 'b nl;
+  print 65 :char == 'q nl;
+  print 71 :char == '7 nl;
+  print 72 :char == '0 nl;
+  print 19 :char == '. nl;
+  print 37 :char == 'h nl;
+  print 86 :char == 'R nl;
+  print 93 :char == '7 nl;
+  print 59 :char == 'w nl;
+  print 54 :char == '2 nl;
+  print 18 :char == '  nl;
+
+  print 'C == 68 :char nl;
+  print 'J == 14 :char nl;
+  print 'E == 84 :char nl;
+  print 'B == 64 :char nl;
+  print '# == 47 :char nl;
+  print 'M == 81 :char nl;
+  print '/ == 3 :char nl;
+  print '> == 82 :char nl;
+  print 'l == 57 :char nl;
+  print '( == 53 :char nl;
+  print 'j == 6 :char nl;
+  print 'r == 50 :char nl;
+
+  print 90 :char == 45 :char nl;
+  print 17 :char == 74 :char nl;
+  print 14 :char == 84 :char nl;
+  print 56 :char == 69 :char nl;
+  print 81 :char == 86 :char nl;
+  print 38 :char == 13 :char nl;
+  print 77 :char == 98 :char nl;
+  print 13 :char == 37 :char nl;
+  print 1 :char == 93 :char nl;
+  print 73 :char == 65 :char nl;
+  print 80 :char == 41 :char nl;
+  print 43 :char == 25 :char nl;
+
+}
+

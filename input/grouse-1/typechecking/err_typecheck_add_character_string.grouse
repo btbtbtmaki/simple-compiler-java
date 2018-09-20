@@ -1,0 +1,4 @@
+main {
+    imm result := '6 + "H{*B)";
+    print result nl;
+}

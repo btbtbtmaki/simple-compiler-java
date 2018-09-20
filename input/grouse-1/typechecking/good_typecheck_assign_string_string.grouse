@@ -1,0 +1,5 @@
+main {
+    var result := "S%";
+    let result := "TyZ";
+    print result nl;
+}

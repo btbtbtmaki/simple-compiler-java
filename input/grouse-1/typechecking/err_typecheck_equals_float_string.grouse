@@ -1,0 +1,4 @@
+main {
+    imm result := 8.1 == "f8Nc_";
+    print result nl;
+}

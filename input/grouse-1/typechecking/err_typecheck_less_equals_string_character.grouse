@@ -1,0 +1,4 @@
+main {
+    imm result := "DE@" <= '=;
+    print result nl;
+}

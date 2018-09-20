@@ -1,0 +1,13 @@
+main {
+	imm n := 37;
+	imm d := 128*n;
+//	print d, nl;
+//	imm z := d:char;
+//	imm iz := z:int;
+//	imm izz := d:char:int;
+//	print iz, izz, nl;
+	imm y := (d - 1):char;
+	imm iy := y:int;
+	imm iyy := (d - 1):char:int;
+	print iy, iyy, nl;
+}

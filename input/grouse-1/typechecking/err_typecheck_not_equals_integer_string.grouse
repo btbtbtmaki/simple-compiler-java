@@ -1,0 +1,4 @@
+main {
+    imm result := 94 != "M`";
+    print result nl;
+}

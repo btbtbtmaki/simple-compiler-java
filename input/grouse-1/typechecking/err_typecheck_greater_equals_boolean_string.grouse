@@ -1,0 +1,4 @@
+main {
+    imm result := true >= "!Tbt6b";
+    print result nl;
+}

@@ -1,0 +1,4 @@
+main {
+    imm result := false - 38;
+    print result nl;
+}

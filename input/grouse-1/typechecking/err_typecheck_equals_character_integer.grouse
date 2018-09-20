@@ -1,0 +1,4 @@
+main {
+    imm result := 'A == 6;
+    print result nl;
+}

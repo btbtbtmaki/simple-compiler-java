@@ -1,0 +1,5 @@
+main {
+    imm fahrenheit := -40;
+    imm centigrade := (fahrenheit - 32) * 5 / 9;
+    print fahrenheit, centigrade, nl;
+}

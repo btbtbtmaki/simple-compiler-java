@@ -1,0 +1,4 @@
+main {
+    imm result := 92 / 'u;
+    print result nl;
+}

@@ -1,0 +1,5 @@
+main {
+    imm w := "abc
+    def";
+    print w nl;
+}

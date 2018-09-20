@@ -1,0 +1,5 @@
+main {
+    var result := "zrQg:R";
+    let result := 86;
+    print result nl;
+}

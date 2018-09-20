@@ -1,0 +1,4 @@
+main {
+    imm result := "HLAm@oa" - 'X;
+    print result nl;
+}

@@ -1,0 +1,4 @@
+main {
+    imm result := "F1'[k_" + false;
+    print result nl;
+}

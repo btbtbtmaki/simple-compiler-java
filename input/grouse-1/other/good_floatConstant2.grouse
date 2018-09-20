@@ -1,0 +1,8 @@
+main {
+	imm v := -2.0000;
+    imm w := 12.3e-2;
+    imm x := -12.34567e4;
+    imm y := -123.4567;
+    imm z := 0.0e1;
+    print v, w, x, y, z, nl;
+}

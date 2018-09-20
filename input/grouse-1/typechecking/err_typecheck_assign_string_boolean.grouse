@@ -1,0 +1,5 @@
+main {
+    var result := "AnE.s";
+    let result := false;
+    print result nl;
+}

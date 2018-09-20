@@ -1,0 +1,8 @@
+main {
+	imm c := 'x;
+	imm n := 117;
+	imm d := 128*n + c:int;
+	print c, d, nl;
+	imm ctwo := d:char;
+	print ctwo, nl;
+}

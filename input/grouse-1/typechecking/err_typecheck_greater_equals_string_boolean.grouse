@@ -1,0 +1,4 @@
+main {
+    imm result := "L+tv" >= true;
+    print result nl;
+}

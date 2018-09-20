@@ -1,0 +1,7 @@
+main {
+	var v := "now";
+    imm w := v;
+    let v := "how";
+    imm z := "cow";
+    print v, w, "brown", z, nl;
+}

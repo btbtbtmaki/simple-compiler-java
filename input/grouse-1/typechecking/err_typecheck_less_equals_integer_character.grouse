@@ -1,0 +1,4 @@
+main {
+    imm result := 58 <= 'D;
+    print result nl;
+}

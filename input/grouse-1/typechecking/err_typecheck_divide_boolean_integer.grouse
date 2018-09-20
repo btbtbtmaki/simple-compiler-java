@@ -1,0 +1,4 @@
+main {
+    imm result := true / 31;
+    print result nl;
+}

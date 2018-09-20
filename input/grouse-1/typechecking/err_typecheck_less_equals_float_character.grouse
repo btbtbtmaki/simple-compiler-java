@@ -1,0 +1,4 @@
+main {
+    imm result := 6.9 <= 'D;
+    print result nl;
+}

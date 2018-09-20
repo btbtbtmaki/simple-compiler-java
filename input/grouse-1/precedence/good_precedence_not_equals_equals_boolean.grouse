@@ -1,0 +1,56 @@
+main {
+
+  print true != true == true nl;
+  print true != false == false nl;
+  print true != true == false nl;
+  print true != true == true nl;
+  print false != true == false nl;
+  print true != true == true nl;
+  print false != true == true nl;
+  print true != false == false nl;
+  print false != true == true nl;
+  print false != false == true nl;
+  print false != true == true nl;
+  print true != true == true nl;
+
+  print true == false != false nl;
+  print true == true != false nl;
+  print false == false != false nl;
+  print false == false != true nl;
+  print false == false != false nl;
+  print false == true != true nl;
+  print true == true != true nl;
+  print true == true != false nl;
+  print true == false != true nl;
+  print false == false != false nl;
+  print false == false != false nl;
+  print true == false != true nl;
+
+  print true != true == true != false nl;
+  print true != true == false != false nl;
+  print true != false == true != true nl;
+  print false != true == false != false nl;
+  print true != true == true != true nl;
+  print false != false == false != true nl;
+  print false != false == false != false nl;
+  print false != false == false != true nl;
+  print false != true == true != true nl;
+  print false != false == true != false nl;
+  print false != true == true != true nl;
+  print true != false == true != true nl;
+
+  print true == false != false == true nl;
+  print true == false != false == false nl;
+  print true == false != false == true nl;
+  print true == true != false == true nl;
+  print false == true != false == false nl;
+  print false == true != false == true nl;
+  print true == true != true == false nl;
+  print true == false != false == false nl;
+  print false == true != true == false nl;
+  print false == true != true == false nl;
+  print true == true != true == true nl;
+  print true == false != true == true nl;
+
+}
+

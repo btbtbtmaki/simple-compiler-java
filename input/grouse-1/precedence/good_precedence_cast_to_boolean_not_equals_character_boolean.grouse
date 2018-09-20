@@ -1,0 +1,43 @@
+main {
+
+  print 'O :bool != true nl;
+  print ') :bool != false nl;
+  print '7 :bool != true nl;
+  print 'n :bool != false nl;
+  print 'Z :bool != true nl;
+  print 'f :bool != false nl;
+  print ': :bool != false nl;
+  print 'i :bool != false nl;
+  print 'q :bool != false nl;
+  print '& :bool != true nl;
+  print 'u :bool != true nl;
+  print '5 :bool != true nl;
+
+  print true != '5 :bool nl;
+  print true != 'z :bool nl;
+  print false != 'l :bool nl;
+  print false != '] :bool nl;
+  print false != 'F :bool nl;
+  print false != '7 :bool nl;
+  print false != ': :bool nl;
+  print true != '& :bool nl;
+  print false != 'h :bool nl;
+  print false != '_ :bool nl;
+  print true != '. :bool nl;
+  print false != 'Z :bool nl;
+
+  print 'i :bool != 'a :bool nl;
+  print 'S :bool != 'a :bool nl;
+  print 'S :bool != ') :bool nl;
+  print 'H :bool != '> :bool nl;
+  print 'n :bool != '. :bool nl;
+  print '3 :bool != 'M :bool nl;
+  print 's :bool != 'f :bool nl;
+  print 'T :bool != 'I :bool nl;
+  print '  :bool != 'd :bool nl;
+  print '> :bool != 'r :bool nl;
+  print 'S :bool != 'v :bool nl;
+  print 'w :bool != 'R :bool nl;
+
+}
+

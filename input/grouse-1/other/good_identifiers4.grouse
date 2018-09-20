@@ -1,0 +1,8 @@
+main {
+    imm a~_~~ := 10;
+    imm Zar11 := 11;
+    imm A~_~ := 12;
+    imm _x~09 := 13;
+    imm a~10a := 14;
+    print a~_~~, Zar11, A~_~, _x~09, a~10a, nl;
+}

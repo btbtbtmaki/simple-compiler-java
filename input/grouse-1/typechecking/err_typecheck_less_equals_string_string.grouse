@@ -1,0 +1,4 @@
+main {
+    imm result := "]'m" <= "'8)cI";
+    print result nl;
+}

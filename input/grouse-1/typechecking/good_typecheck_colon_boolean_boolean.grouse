@@ -1,0 +1,6 @@
+main {
+    imm result := false :bool;
+    var knownType := false;
+    let knownType := result;
+    print result nl;
+}

@@ -1,0 +1,4 @@
+main {
+    imm result := 78 * " ]0";
+    print result nl;
+}

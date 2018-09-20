@@ -1,0 +1,4 @@
+main {
+    imm result := 43 + "C4N3";
+    print result nl;
+}

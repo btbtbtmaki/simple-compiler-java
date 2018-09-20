@@ -1,0 +1,4 @@
+main {
+    imm result := 72 <= 7.8;
+    print result nl;
+}

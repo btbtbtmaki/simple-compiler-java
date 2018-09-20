@@ -1,0 +1,4 @@
+main {
+    imm result := "bK%%,!6" == 6;
+    print result nl;
+}

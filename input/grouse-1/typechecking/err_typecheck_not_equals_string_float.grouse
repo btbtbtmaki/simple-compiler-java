@@ -1,0 +1,4 @@
+main {
+    imm result := "hd^%" != 2.9;
+    print result nl;
+}

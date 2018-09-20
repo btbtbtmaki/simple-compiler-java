@@ -1,0 +1,5 @@
+main {
+    var result := 's;
+    let result := 66;
+    print result nl;
+}

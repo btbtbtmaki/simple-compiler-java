@@ -1,0 +1,6 @@
+main {
+    imm result := 97 :char;
+    var knownType := '*;
+    let knownType := result;
+    print result nl;
+}

@@ -1,0 +1,5 @@
+main {
+    var result := 30;
+    let result := false;
+    print result nl;
+}

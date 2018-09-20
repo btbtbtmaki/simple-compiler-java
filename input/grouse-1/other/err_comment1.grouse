@@ -1,0 +1,6 @@
+main {
+	imm c := 3 + 4 * 5;  
+	imm d := 6 * /// 5;	// three slashes are not a comment. //
+	imm e := 7 * 5;
+	print c, d, e, nl;
+}

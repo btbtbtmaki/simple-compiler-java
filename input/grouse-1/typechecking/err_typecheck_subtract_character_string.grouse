@@ -1,0 +1,4 @@
+main {
+    imm result := '7 - "_y'b";
+    print result nl;
+}

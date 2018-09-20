@@ -1,0 +1,4 @@
+main {
+    imm result := 5.8 > true;
+    print result nl;
+}

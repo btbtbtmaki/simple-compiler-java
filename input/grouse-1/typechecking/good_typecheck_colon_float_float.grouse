@@ -1,0 +1,6 @@
+main {
+    imm result := 5.1 :float;
+    var knownType := 5.1;
+    let knownType := result;
+    print result nl;
+}

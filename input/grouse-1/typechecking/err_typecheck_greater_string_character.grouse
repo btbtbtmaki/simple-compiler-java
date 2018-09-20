@@ -1,0 +1,4 @@
+main {
+    imm result := "3S}H" > 'H;
+    print result nl;
+}

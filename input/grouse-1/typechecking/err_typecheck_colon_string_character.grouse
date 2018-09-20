@@ -1,0 +1,4 @@
+main {
+    imm result := "g&b8M=" :char;
+    print result nl;
+}

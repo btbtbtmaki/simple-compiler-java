@@ -1,0 +1,43 @@
+main {
+
+  print 46 :char != 'W nl;
+  print 99 :char != '1 nl;
+  print 69 :char != '! nl;
+  print 31 :char != 'N nl;
+  print 91 :char != 'I nl;
+  print 61 :char != 'c nl;
+  print 29 :char != 'p nl;
+  print 99 :char != 'H nl;
+  print 31 :char != 'Q nl;
+  print 57 :char != '  nl;
+  print 30 :char != 'P nl;
+  print 2 :char != '# nl;
+
+  print 'b != 49 :char nl;
+  print '` != 53 :char nl;
+  print '0 != 85 :char nl;
+  print 'r != 49 :char nl;
+  print 'o != 19 :char nl;
+  print 'm != 19 :char nl;
+  print '9 != 44 :char nl;
+  print 'u != 14 :char nl;
+  print '8 != 88 :char nl;
+  print 'q != 30 :char nl;
+  print 'a != 37 :char nl;
+  print 'K != 83 :char nl;
+
+  print 83 :char != 35 :char nl;
+  print 96 :char != 7 :char nl;
+  print 86 :char != 34 :char nl;
+  print 42 :char != 15 :char nl;
+  print 44 :char != 6 :char nl;
+  print 68 :char != 87 :char nl;
+  print 39 :char != 65 :char nl;
+  print 61 :char != 33 :char nl;
+  print 13 :char != 1 :char nl;
+  print 81 :char != 21 :char nl;
+  print 63 :char != 96 :char nl;
+  print 88 :char != 18 :char nl;
+
+}
+

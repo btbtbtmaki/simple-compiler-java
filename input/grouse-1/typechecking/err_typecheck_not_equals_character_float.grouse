@@ -1,0 +1,4 @@
+main {
+    imm result := 'i != 2.9;
+    print result nl;
+}

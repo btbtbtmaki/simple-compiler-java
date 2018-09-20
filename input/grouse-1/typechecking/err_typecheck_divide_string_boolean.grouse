@@ -1,0 +1,4 @@
+main {
+    imm result := "|$bS+" / false;
+    print result nl;
+}

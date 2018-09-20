@@ -1,0 +1,4 @@
+main {
+    imm result := "9B;^K;L" <= 4.1;
+    print result nl;
+}

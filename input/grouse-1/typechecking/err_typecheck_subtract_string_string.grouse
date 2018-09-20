@@ -1,0 +1,4 @@
+main {
+    imm result := "ikA" - "cu:)k";
+    print result nl;
+}

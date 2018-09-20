@@ -1,0 +1,5 @@
+main {
+	imm v := 3.9427;
+	imm vapprox := v: int;		// don't round up
+	print v, vapprox;
+}

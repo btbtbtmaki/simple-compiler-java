@@ -1,0 +1,4 @@
+main {
+    imm result := "Lj3?gnG" > true;
+    print result nl;
+}

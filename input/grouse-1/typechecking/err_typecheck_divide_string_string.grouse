@@ -1,0 +1,4 @@
+main {
+    imm result := "%Cu" / "U3;7Z";
+    print result nl;
+}

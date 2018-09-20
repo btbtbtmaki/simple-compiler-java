@@ -1,0 +1,4 @@
+main {
+    imm result := "pg6Epki" >= 3.3;
+    print result nl;
+}

@@ -1,0 +1,4 @@
+main {
+    imm result := 19 - "Hd-";
+    print result nl;
+}

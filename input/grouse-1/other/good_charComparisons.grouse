@@ -1,0 +1,32 @@
+main {
+	print '< nl;
+	print ' , 'x < 'y, nl;
+	print ' , 'y < 'y, nl;
+	print ' , 'z < 'y, nl;
+	print nl;
+	print '< '= nl;
+	print ' , 'x <= 'y, nl;
+	print ' , 'y <= 'y, nl;
+	print ' , 'z <= 'y, nl;
+	print nl;
+	print '> nl;
+	print ' , 'x > 'y, nl;
+	print ' , 'y > 'y, nl;
+	print ' , 'z > 'y, nl;
+	print nl;
+	print '> '= nl;
+	print ' , 'x >= 'y, nl;
+	print ' , 'y >= 'y, nl;
+	print ' , 'z >= 'y, nl;
+	print nl;
+	print '= '= nl;
+	print ' , 'x == 'y, nl;
+	print ' , 'y == 'y, nl;
+	print ' , 'z == 'y, nl;
+	print nl;
+	print '! '= nl;
+	print ' , 'x != 'y, nl;
+	print ' , 'y != 'y, nl;
+	print ' , 'z != 'y, nl;
+	print nl;
+}

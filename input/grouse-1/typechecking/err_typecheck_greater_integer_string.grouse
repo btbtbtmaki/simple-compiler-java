@@ -1,0 +1,4 @@
+main {
+    imm result := 81 > "Sq";
+    print result nl;
+}

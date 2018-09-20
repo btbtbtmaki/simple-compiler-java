@@ -1,0 +1,12 @@
+main {
+    imm a2345678901234567890123456789012 := 10;
+    imm abcdefghijklmnopqrstuvwxyzABCDEF := 11;
+    imm abcdefghijklmnopqrstuvwxyzABCDE~ := 12;
+    imm a2345678900 := 13;
+    imm mnopqrstuvwxyzABCDEFG := 14;
+    print a2345678901234567890123456789012, 
+            abcdefghijklmnopqrstuvwxyzABCDEF,
+            abcdefghijklmnopqrstuvwxyzABCDE~,
+            a2345678900,
+            mnopqrstuvwxyzABCDEFG;
+}
